@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"eb26806690ca5efa","type":"text","text":"Pocketful.in","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"646e6613e017a164","type":"text","text":"/brokers","x":240,"y":-30,"width":250,"height":60},
+		{"id":"3892d417ad3b6191","x":165,"y":140,"width":400,"height":264,"type":"file","file":"Pasted image 20240905155824.png"},
+		{"id":"772518d1758306f0","type":"text","text":"/brokers/best-broker-delhi","x":840,"y":-30,"width":320,"height":60},
+		{"id":"5bdbb6cffe2f47ae","type":"file","file":"Pasted image 20240905155824.png","x":800,"y":140,"width":400,"height":264},
+		{"id":"a024ee4d4bc04699","type":"text","text":"/brokers/best-broker-haryana ","x":800,"y":680,"width":320,"height":60},
+		{"id":"f86f9d0565abf5b4","type":"file","file":"Pasted image 20240905155824.png","x":760,"y":850,"width":400,"height":264}
+	],
+	"edges":[
+		{"id":"0cd6435128d41fb7","fromNode":"eb26806690ca5efa","fromSide":"right","toNode":"646e6613e017a164","toSide":"left"},
+		{"id":"785d97d47792d731","fromNode":"646e6613e017a164","fromSide":"bottom","toNode":"3892d417ad3b6191","toSide":"top"},
+		{"id":"122ef5a2fe73b277","fromNode":"646e6613e017a164","fromSide":"right","toNode":"772518d1758306f0","toSide":"left"},
+		{"id":"1bcd6670faabae73","fromNode":"646e6613e017a164","fromSide":"right","toNode":"a024ee4d4bc04699","toSide":"left"},
+		{"id":"c0138c824ce0917f","fromNode":"a024ee4d4bc04699","fromSide":"bottom","toNode":"f86f9d0565abf5b4","toSide":"top"}
+	]
+}
