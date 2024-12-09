@@ -1,5 +1,5 @@
 {
-  "remoteURL": "git@github.com:ankitdalalx/obsidian-backup.git",
+  "remoteURL": "https://github.com/ankitdalalx/obsidian-backup.git",
   "gitLocation": "",
   "syncinterval": 0,
   "isSyncOnLoad": true
